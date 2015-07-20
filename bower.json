@@ -1,0 +1,26 @@
+{
+  "name": "sales",
+  "version": "0.0.0",
+  "authors": [
+    "Becky Conning <becky.conning@icloud.com>"
+  ],
+  "description": "A demo halogen app",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "purescript-halogen": "d8ea8b6ec9c28d32301fadb8b6816b04115050cb",
+    "purescript-halogen-bootstrap": "0.1.0",
+    "purescript-routing": "1e7cf5687ddab496f926fce4f7d64fa587041f92"
+  },
+  "resolutions": {
+    "purescript-halogen": "d8ea8b6ec9c28d32301fadb8b6816b04115050cb",
+    "purescript-aff": "~0.9.0"
+  }
+}

@@ -1,0 +1,12 @@
+/node_modules
+/npm-debug.log
+
+/output
+
+/bower_components
+
+/.psci-modules
+
+.swp
+
+.DS_Store

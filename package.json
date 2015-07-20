@@ -1,0 +1,25 @@
+{
+  "name": "sales",
+  "version": "1.0.0",
+  "description": "An example halogen app",
+  "main": "dist/index.js",
+  "dependencies": {
+    "purescript": "^0.7.1"
+  },
+  "devDependencies": {
+    "virtual-dom": "^2.0.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/beckyconning/sales"
+  },
+  "author": "Becky Conning",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/beckyconning/sales/issues"
+  },
+  "homepage": "https://github.com/beckyconning/sales"
+}
